@@ -19,5 +19,4 @@ A simple and fun two-player Tic Tac Toe game built with HTML, CSS, and JavaScrip
 - **CSS** – Styling and responsive design
 - **JavaScript (ES6)** – Game logic and interactivity
 
-
-
+Author :- Rohan Indalkar
